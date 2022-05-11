@@ -9,7 +9,7 @@ public class calculator {
         m = keyboard.nextDouble();
 
         System.out.println("Your weight in kg: ");
-        kg =keyboard.nextDouble();
+        kg = keyboard.nextDouble();
 
         bmi = kg / (m*m);
 

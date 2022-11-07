@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author soul
+ *
+ */
+module emailApp {
+}
